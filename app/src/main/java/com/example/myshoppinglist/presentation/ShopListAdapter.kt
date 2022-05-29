@@ -1,4 +1,4 @@
-package com.example.myshoppinglist.presentetion
+package com.example.myshoppinglist.presentation
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
